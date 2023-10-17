@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/425dkd1/My.jpg" width="400"/>
+  <img src="https://i.gifer.com/origin/91/9118b971b60b9e095e676781e1e63bb3_w200.gif" width="400"/>
 </div>
 <div id="badges" align="center">
    <a href="https://t.me/@leshapitroov">
@@ -14,7 +14,7 @@
 </div>
   <h1 
     align="center">
-  Привет, я Алексей
+  Привет, я Алексей. QA Studio LOVE
   </h1>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJha2xtZ2d3MndlcGN0eGF5aGplMzVtb2NwMGtmM3ZkY3h2YXF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="600" height="300"/>
